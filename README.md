@@ -1,3 +1,3 @@
 # warranty-dotnet-core
-dotnet restore
-dotnet run
+* <code>dotnet restore</code>
+* <code>dotnet run</code>
